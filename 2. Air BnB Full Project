@@ -1,0 +1,18 @@
+# Tableau-Projects
+
+Air BnB Project
+http://insideairbnb.com/get-the-data/
+Since 2008, guests and hosts have used Airbnb to travel in a more unique, personalized way. 
+As part of the Airbnb Inside initiative, this dataset describes the listing activity of homestays in Seattle, WA.
+
+
+https://public.tableau.com/app/profile/sagar.kshirsagar/viz/TabluePracticeAlexProject/AirBnBFullProject
+
+The following Visualizations are made in this project:
+
+1. Price by zipcode  -- Bar Graph
+2. Price (Calender) by zipcode -- Bar Graph
+3. Avg Price per Bedroom -- Bar Graph
+4. Prices per Zipcode -- Geographical map
+5. Distinct Count Bedrooms -- Table
+6. Revenue for a Year -- Showing the trend.
